@@ -1,0 +1,16 @@
+Copyright (c) 2023, Xinmin Ge, China University of Petroleum
+
+https://www.researchgate.net/profile/Xinmin-Ge
+http://geori.upc.edu.cn/2018/0526/c10378a151840/page.htm
+--------------------------------------------------------------------------------
+
+It is a free function, you can redistribute it and/or modify it under the terms of the GNU Lesser General Public
+License, or (at your option) any later version.
+
+It is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+
+YOU CAN RUN THE DEMO DIRECTLY, YOU ALSO CAN REVISE IT AT YOUR WILL TO PERFORM THE SIMULATION.
+ENJOY IT.
+
